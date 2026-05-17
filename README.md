@@ -15,3 +15,8 @@
 ```
 RULE-SET,https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/ruleset/ai.txt,Proxy
 ```
+
+## 参考
+
+* <https://github.com/xinydev/Shadowrocket-Config>
+* <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
