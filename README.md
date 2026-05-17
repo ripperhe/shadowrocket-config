@@ -18,5 +18,4 @@ RULE-SET,https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/r
 
 ## 参考
 
-* <https://github.com/xinydev/Shadowrocket-Config>
-* <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
+* <https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever>
