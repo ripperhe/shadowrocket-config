@@ -1,0 +1,7 @@
+# AI 服务规则
+
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
