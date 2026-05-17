@@ -1,14 +1,17 @@
-# Shadowrocket
+# shadowrocket-config
 
-Shadowrocket 规则，个人使用
+个人使用的 Shadowrocket Rule Set。
 
+## Rule Set
+
+| 名称 | 用途 | URL |
+| --- | --- | --- |
+| AI | AI 服务（Claude、Anthropic 等） | `https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/ruleset/ai.txt` |
+
+## 使用
+
+在 Shadowrocket 配置文件中通过 `RULE-SET` 引用，策略在引用处指定：
 
 ```
-https://raw.githubusercontent.com/ripperhe/Shadowrocket/master/rule/simple.txt
+RULE-SET,https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/ruleset/ai.txt,Proxy
 ```
-
-## 参考
-
-* <https://github.com/xinydev/Shadowrocket-Config>
-* <https://github.com/h2y/Shadowrocket-ADBlock-Rules>
-
