@@ -10,10 +10,6 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
-IP-CIDR,160.79.104.0/21,no-resolve
-IP-CIDR6,2607:6bc0::/48,no-resolve
-IP-CIDR6,2607:6bc0:11::/48,no-resolve
-IP-ASN,399358,no-resolve
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
