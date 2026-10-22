@@ -10,8 +10,3 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
-
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,oaistatic.com

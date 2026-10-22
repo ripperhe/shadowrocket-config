@@ -6,7 +6,7 @@
 
 | 名称 | 用途 | URL |
 | --- | --- | --- |
-| AI | AI 服务（Anthropic、OpenAI 等） | `https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/ruleset/ai.txt` |
+| AI | Anthropic 服务 | `https://raw.githubusercontent.com/ripperhe/shadowrocket-config/master/ruleset/ai.txt` |
 
 ## 使用
 
