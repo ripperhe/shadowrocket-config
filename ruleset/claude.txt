@@ -1,4 +1,4 @@
-# AI 服务规则
+# ✴️ Claude 服务规则
 
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
